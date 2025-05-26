@@ -1,4 +1,4 @@
-# Online Food Ordering System
+# Food-much
 
 This is a simple **Online Food Ordering System** project created using HTML and CSS. It serves as a front-end interface for users to browse and order food online.
 
