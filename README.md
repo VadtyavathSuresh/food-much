@@ -25,11 +25,8 @@ The project simulates a basic food ordering platform where users can:
 To run the project locally:
 
 1. Download or clone this repository.
-2. Open `food much.html` in any modern web browser.
+2. Open `sureshsingh.ccbp.tech` in any modern web browser.
 
-## 📸 Screenshots
-
-(Add screenshots here if available.)
 
 ## 📚 Project Purpose
 
